@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vkapp/static/css/main.981f7211.chunk.css",
+    "main.js": "/vkapp/static/js/main.eb04d28b.chunk.js",
+    "main.js.map": "/vkapp/static/js/main.eb04d28b.chunk.js.map",
+    "runtime-main.js": "/vkapp/static/js/runtime-main.6b834a5a.js",
+    "runtime-main.js.map": "/vkapp/static/js/runtime-main.6b834a5a.js.map",
+    "static/css/2.4e89ce74.chunk.css": "/vkapp/static/css/2.4e89ce74.chunk.css",
+    "static/js/2.0ca88e62.chunk.js": "/vkapp/static/js/2.0ca88e62.chunk.js",
+    "static/js/2.0ca88e62.chunk.js.map": "/vkapp/static/js/2.0ca88e62.chunk.js.map",
+    "index.html": "/vkapp/index.html",
+    "precache-manifest.923911c8ed7805fba4ccaa08ebfddc0e.js": "/vkapp/precache-manifest.923911c8ed7805fba4ccaa08ebfddc0e.js",
+    "service-worker.js": "/vkapp/service-worker.js",
+    "static/css/2.4e89ce74.chunk.css.map": "/vkapp/static/css/2.4e89ce74.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/vkapp/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/vkapp/static/media/persik.4e1ec840.png"
+  }
+}
