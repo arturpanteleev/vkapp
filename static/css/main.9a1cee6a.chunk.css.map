@@ -1,0 +1,1 @@
+{"version":3,"sources":["Persik.css","PictureGen.css"],"names":[],"mappings":"AAAA,QACE,aAAc,CACd,SAAU,CACV,gBACF,CCJA,SACI,gBAAiB,CACjB,aACJ","file":"main.9a1cee6a.chunk.css","sourcesContent":[".Persik {\r\n  display: block;\r\n  width: 50%;\r\n  margin: 20px auto;\r\n}\r\n",".picture {\r\n    max-height: 350px;\r\n    margin: 0 auto;\r\n}"]}
